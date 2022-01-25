@@ -1,1 +1,55 @@
+ body {
+       background-color: rgb(0, 48, 80);
+      }
 
+      #title {
+        font-size: 40px;
+        font-weight: bold;
+        text-align: center;
+        border-bottom: 6px solid tomato;
+        background-color: rgb(255, 239, 158);
+        color: #ff951e     
+      }
+      .end {
+        font-size: 30px;
+        font-weight: bold;
+        text-align: center;
+        color: #ff951e
+      }
+      .info {
+        font-size: 35px;
+        text-align: center;
+        color: #9dc8cc
+      }
+     img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width=40%;
+      }      
+     #Javascript {
+           font-size: 35px;
+           text-align: center;
+           color: #9dc8cc
+     }           
+     button {
+           display: block;
+           margin-left: auto;
+           margin-right: auto;
+           border: none;
+           border-radius: 4px;
+           background-color: #008CBA;
+           color: white;
+           padding: 15px 32px;
+           text-align: center;
+           text-decoration: none;
+           font-size: 16px;
+      }
+      button:hover {
+             box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+      }
+     #demo {
+           font-size: 15px;
+           text-align: center;
+           color: #ff951e
+}
