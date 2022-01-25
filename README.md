@@ -1,2 +1,0 @@
-# hfalimon.github.io
-Introduction
