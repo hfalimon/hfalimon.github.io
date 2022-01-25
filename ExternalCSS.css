@@ -26,8 +26,9 @@
 #Javascript {
            font-size: 35px;
            text-align: center;
+           font-weight: bold;
            font-family: Arial, Helvetica, sans-serif;
-           color: #1E1C1A
+           color: #EFDECD
      }           
      button {
            display: block;
