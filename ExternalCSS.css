@@ -1,5 +1,5 @@
  body {
-       background-color: rgb(0, 48, 80);
+       background-color: rgb(239,222,205);
       }
 
       #title {
@@ -17,7 +17,7 @@
         color: #ff951e
       }
       .info {
-        font-size: 35px;
+        font-size: 24px;
         text-align: center;
         color: #9dc8cc
       }
